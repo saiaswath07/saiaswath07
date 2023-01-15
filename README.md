@@ -1,6 +1,5 @@
 ![MasterHead](https://github.com/saiaswath07/saiaswath07/blob/main/header.png)
-<!-- ![Header]([./your-header-image-name.png](https://github.com/saiaswath07/saiaswath07/blob/main/header.png))
- -->
+
 <h1 align="center">Hi 👋, I'm Sai Aswath S</h1>
 <!-- <img align="right" alt="Coding" width="400" src="https://www.cxoinsightme.com/wp-content/uploads/2019/10/shutterstock_1095422036-1024x756.jpg"> -->
 <h3 align="center">A Passionate Cybersecurity enthusiast and aspiring professional with a strong interest in protecting against cyber threats. Skilled in languages such as Python, Java, and HTML/CSS,Django,scala. Strong background in Linux system and web development frameworks such as Django. Committed to creating robust and scalable web applications. Always eager to learn new technologies and stay up-to-date with industry developments.</h3>
@@ -13,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sai-aswath-reddy-568992114/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-aswath-reddy-568992114/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sai-aswath-reddy-568992114?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8eC0kuJqTMSxS7cU%2BNCNxA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-aswath-reddy-568992114/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
