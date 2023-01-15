@@ -1,5 +1,5 @@
 <!-- ![MasterHead](https://sc.edu/study/colleges_schools/law/centers/cybersecurity/_images/cybersecurity_legal_task_force-banner-825.jpg) -->
-![Header](./your-header-image-name.png)
+![Header]([./your-header-image-name.png](https://github.com/saiaswath07/saiaswath07/blob/main/header.png))
 
 <h1 align="center">Hi 👋, I'm Sai Aswath S</h1>
 <!-- <img align="right" alt="Coding" width="400" src="https://www.cxoinsightme.com/wp-content/uploads/2019/10/shutterstock_1095422036-1024x756.jpg"> -->
