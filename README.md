@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/67650775/212541462-02f3ea68-3a81-4233-81ce-9276d6802c11.png)
+![MasterHead](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-2.png)
 
 <h1 align="center">Hi 👋, I'm Sai Aswath S</h1>
 <h3 align="center">A Passionate Cybersecurity enthusiast and aspiring professional with a strong interest in protecting against cyber threats. Skilled in languages such as Python, Java, and HTML/CSS,Django,scala. Strong background in Linux system and web development frameworks such as Django. Committed to creating robust and scalable web applications. Always eager to learn new technologies and stay up-to-date with industry developments.</h3>
