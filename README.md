@@ -1,8 +1,9 @@
-![MasterHead](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?resize=1588%2C610&ssl=1)
+![MasterHead](https://sc.edu/study/colleges_schools/law/centers/cybersecurity/_images/cybersecurity_legal_task_force-banner-825.jpg)
 
 <h1 align="center">Hi 👋, I'm Sai Aswath S</h1>
-<h3 align="center">A Passionate Cybersecurity enthusiast and aspiring professional with a strong interest in protecting against cyber threats. Skilled in languages such as Python, Java, and HTML/CSS,Django,scala. Strong background in Linux system and web development frameworks such as Django. Committed to creating robust and scalable web applications. Always eager to learn new technologies and stay up-to-date with industry developments.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.cxoinsightme.com/wp-content/uploads/2019/10/shutterstock_1095422036-1024x756.jpg">
+<h3 align="center">A Passionate Cybersecurity enthusiast and aspiring professional with a strong interest in protecting against cyber threats. Skilled in languages such as Python, Java, and HTML/CSS,Django,scala. Strong background in Linux system and web development frameworks such as Django. Committed to creating robust and scalable web applications. Always eager to learn new technologies and stay up-to-date with industry developments.</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiaswath07&label=Profile%20views&color=0e75b6&style=flat" alt="saiaswath07" /> </p>
