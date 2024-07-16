@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sai Aswath S</h1>
 <!-- <img align="right" alt="Coding" width="400" src="https://www.cxoinsightme.com/wp-content/uploads/2019/10/shutterstock_1095422036-1024x756.jpg"> -->
-<h3 align="center">A passionate technology enthusiast and aspiring professional. Skilled in Python, Linux, HTML/CSS, Django, and AWS. Strong background in Linux systems and web development frameworks such as Django. Committed to creating robust and scalable web applications. Always eager to learn new technologies and stay up-to-date with industry developments.
+<h3 align="center">A passionate technology and AI enthusiast and aspiring professional. Skilled in Python, Linux, HTML/CSS, Django, and AWS. Strong background in Linux systems and web development frameworks. Committed to creating robust and scalable web applications. Always eager to learn new technologies and stay up-to-date with industry developments.
 </h3>
 
 
